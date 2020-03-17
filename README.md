@@ -6,4 +6,3 @@ More information to follow.
 
 Best,
 Tareq Haddad
-The Watchdog public editor
